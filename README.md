@@ -27,7 +27,7 @@ Python é uma linguagem de programação de alto nível, interpretada e de prop�
 - **Automação de Tarefas:** <br>
   Python é ideal para scripts e automação de tarefas repetitivas, economizando tempo e esforço.
 
-- Inteligência Artificial e Aprendizado de Máquina:
+- **Inteligência Artificial e Aprendizado de Máquina:** <br>
   Ferramentas como TensorFlow e scikit-learn facilitam a construção de modelos de machine learning e AI.
 
 Python é uma linguagem versátil que se adapta a diferentes tipos de projetos, proporcionando uma curva de aprendizado suave e uma experiência de desenvolvimento agradável.
