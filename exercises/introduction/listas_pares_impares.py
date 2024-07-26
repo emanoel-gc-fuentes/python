@@ -2,7 +2,7 @@
 Faça uma função que separe números pares e ímpares em listas diferentes,
 recebendo uma lista de números como argumento.
 """
-lista = [1, 2, 3, 4, 5, 6, 5, 6, 1, 4, 9, 3, 1, 12, 54, 23, 12, 31]
+lista = [1, 2, 3, 4, 5, 6, 5, 6, 1, 4, 9, 3, 1, 12, 54, 23, 12, 31, 32]
 
 def impar_ou_par(lista):
     
